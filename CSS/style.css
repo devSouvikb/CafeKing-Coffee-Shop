@@ -1,0 +1,8 @@
+/* navbar */
+.nav-wrapper {
+  background-color: #6f4037;
+}
+
+nav .brand-logo {
+  padding-left: 15px;
+}
