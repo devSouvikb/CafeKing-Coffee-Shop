@@ -39,3 +39,18 @@ h3 {
 .icon-coffee {
   color: #6f4037;
 }
+
+hr {
+  height: 10px;
+  border: none;
+  background-color: #6f4037;
+}
+
+/* Footer */
+.footer-one {
+  background: #6f4037;
+}
+
+.footer-two {
+  background: #462822;
+}
