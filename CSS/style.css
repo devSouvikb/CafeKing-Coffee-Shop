@@ -34,3 +34,8 @@ h3 {
   min-height: 280px;
   height: auto;
 }
+
+/* Services */
+.icon-coffee {
+  color: #6f4037;
+}
