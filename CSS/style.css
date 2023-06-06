@@ -21,11 +21,16 @@ h3 {
 }
 
 /* Description */
-
 .move {
   margin-top: 30px;
 }
 
 .imgMove {
   margin-top: 65px;
+}
+
+/* parallax */
+.parallax-container {
+  min-height: 280px;
+  height: auto;
 }
