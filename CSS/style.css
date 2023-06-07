@@ -1,6 +1,11 @@
 /* font */
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
 /* navbar */
 .nav-wrapper {
   background-color: #6f4037;
@@ -9,6 +14,14 @@
 nav .brand-logo {
   padding-left: 15px;
   font-family: "Pacifico", cursive;
+}
+
+.sidenav {
+  background-color: #6f4037;
+}
+
+.sidenav li a {
+  color: #ffffff;
 }
 
 /* Slider */
